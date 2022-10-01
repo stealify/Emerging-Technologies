@@ -7,7 +7,8 @@ Stealify Emerging Technologies - a Collection to track incubation process and Ad
 - https://opensource.google/projects
   - https://chromium.googlesource.com/
   - https://fuchsia.googlesource.com/
-- https://cs.android.com/android/platform/superproject/
+  - https://android.googlesource.com/
+    - https://cs.android.com/android/platform/superproject/
 - https://github.com/features
 - https://labs.mozilla.org/projects/
 - IPFS Like filesystem @stealify/filesystem sfs 
