@@ -1,6 +1,8 @@
 # Emerging-Technologies
 Stealify Emerging Technologies - a Collection to track incubation process and Adoption of Emerging Technologies
 
+- [servo](https://servo.org/)
+- [WebPlatformForEmbedded](https://github.com/WebPlatformForEmbedded)
 - [RedHat](https://next.redhat.com)
 - [Eclipse](https://projects.eclipse.org/)
 - [cncf](https://www.cncf.io/projects/)
@@ -11,5 +13,5 @@ Stealify Emerging Technologies - a Collection to track incubation process and Ad
   - https://android.googlesource.com/
     - https://cs.android.com/android/platform/superproject/
 - https://github.com/features
-- https://labs.mozilla.org/projects/
+- [Mozilla](https://labs.mozilla.org/projects/)
 - IPFS Like filesystem @stealify/filesystem sfs 
